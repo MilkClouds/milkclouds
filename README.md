@@ -11,8 +11,8 @@
 
 * BOJ: [milkclouds](http://icpc.me/milkclouds)
   * solvedac: [milkclouds](https://solved.ac/profile/milkclouds)
+ * Atcoder: [MilkClouds](https://atcoder.jp/users/MilkClouds) [![](https://run.kaist.ac.kr/badges/atcoder/MilkClouds.svg)](https://atcoder.jp/users/MilkClouds)
 * Codeforces: [MilkClouds](https://codeforces.com/profile/MilkClouds) [![](https://run.kaist.ac.kr/badges/codeforces/milkclouds.svg)](https://codeforces.com/profile/MilkClouds)
-* Atcoder: [MilkClouds](https://atcoder.jp/users/MilkClouds) [![](https://run.kaist.ac.kr/badges/atcoder/MilkClouds.svg)](https://atcoder.jp/users/MilkClouds)
 
 ![Rating Equaliser](rating_equaliser.png)
 
