@@ -31,10 +31,10 @@
 
 [![MilkClouds's github stats](https://github-readme-stats.vercel.app/api?username=milkclouds&show_icons=true&hide_border=true)](https://github.com/milkclouds) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milkclouds&layout=compact)](https://github.com/milkclouds)
 
-### Most Used   
+### Most     
 ![Python](https://img.shields.io/badge/Python-3775a9?style=flat-square&logo=Python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599c?style=flat-square&logo=C%2B%2B&logoColor=white) ![JAVA](https://img.shields.io/badge/JAVA-007386?style=flat-square&logo=JAVA&logoColor=white) ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-green?style=flat-square&logo=autohotkey&logoColor=white)
 
-### Rarely Used    
+### Used at Least Once Anyway...
 ![HTML5](https://img.shields.io/badge/HTML5-E44E25?style=flat-square&logo=HTML5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F3E050?style=flat-square&logo=JavaScript&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-304BDB?style=flat-square&logo=CSS3&logoColor=white) ![Unreal](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat-square&logo=Unreal%20Engine&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-285F86?style=flat-square&logo=MySQL&logoColor=white)
 
 ## 📫 Contacts
