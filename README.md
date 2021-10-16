@@ -18,7 +18,8 @@
 
 ## 💬 Problem Solving Blog
 
-* [Something like Blog](https://milkclouds.github.io)
+* [Something like Blog](https://milkclouds.github.io) (outdated)
+* [Notepad](https://milkclouds.notion.site/Notepad-1844a1560b794594829770ee5b49bdb7) (Notion blog)
 
 ## 🏷️ Cards
 
