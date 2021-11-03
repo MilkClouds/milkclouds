@@ -6,6 +6,7 @@
 
 * Choi SuHwan / MilkClouds
 * Seoul National University Undergraduate - Majoring Physics
+* Interest: Machine Learning, Quantum Computing, Homomorphic Encryption(Post Quantum Cryptography), Blockchain(Smart Contract, DeFI, ...), SMR(+Nuclear 
 
 ## 💻 Online Judge
 
@@ -31,6 +32,8 @@
 <!-- [![CodeForces Profile](http://cf.leed.at?id=milkclouds)](https://codeforces.com/profile/milkclouds) -->
 
 [![MilkClouds's github stats](https://github-readme-stats.vercel.app/api?username=milkclouds&show_icons=true&hide_border=true)](https://github.com/milkclouds) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milkclouds&layout=compact)](https://github.com/milkclouds)
+
+![](https://github-readme-score-saber.vercel.app/api?uid=MilkClouds)
 
 ### Frequently Used       
 ![Python](https://img.shields.io/badge/Python-3775a9?style=flat-square&logo=Python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599c?style=flat-square&logo=C%2B%2B&logoColor=white) ![JAVA](https://img.shields.io/badge/JAVA-007386?style=flat-square&logo=JAVA&logoColor=white) ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-green?style=flat-square&logo=autohotkey&logoColor=white)
