@@ -6,7 +6,7 @@
 
 * Choi SuHwan / MilkClouds
 * Seoul National University Undergraduate - Majoring Physics
-* Interest: Machine Learning, Quantum Computing, Homomorphic Encryption(Post Quantum Cryptography), Blockchain(Smart Contract, DeFI, ...), SMR(+Nuclear 
+* Interest: Machine Learning, Quantum Computing, Homomorphic Encryption(Post Quantum Cryptography), Blockchain(Smart Contract, DeFI, ...), SMR(+Nuclear Fusion), BCI, etc...
 
 ## 💻 Online Judge
 
