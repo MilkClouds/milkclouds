@@ -8,6 +8,11 @@
 * Seoul National University Undergraduate - Majoring Physics
 * Interest: Machine Learning, Quantum Computing, Homomorphic Encryption(Post Quantum Cryptography), Blockchain(Smart Contract, DeFI, ...), SMR(+Nuclear Fusion), BCI, etc...
 
++ 2021
+    + Software Maestro 12th
+    + Studied Deep Learning, Basic of Quantum Computing, Basic of Blockchain
+    + PR for openmmlab/mmdetection3d https://github.com/open-mmlab/mmdetection3d/pull/1050
+
 ## 💻 Online Judge
 
 * BOJ: [milkclouds](http://icpc.me/milkclouds)
