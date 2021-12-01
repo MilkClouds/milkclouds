@@ -11,7 +11,8 @@
 + 2021
     + Software Maestro 12th
     + Studied Deep Learning, Basic of Quantum Computing, Basic of Blockchain
-    + PR for openmmlab/mmdetection3d https://github.com/open-mmlab/mmdetection3d/pull/1050
+    + [PR](https://github.com/open-mmlab/mmdetection3d/pull/1050) merged for openmmlab/mmdetection3d
+    + [PR](https://github.com/isac322/BOJ-auto_code_downloader/pull/3) merged for isac322/BOJ-auto_code_downloader
 
 ## 💻 Online Judge
 
