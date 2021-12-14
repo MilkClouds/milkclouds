@@ -23,10 +23,11 @@
 
 <!-- ![Rating Equaliser](rating_equaliser.png) -->
 
-## 💬 Problem Solving Blog
+## 💬 Website
 
-* [Something like Blog](https://milkclouds.github.io) (outdated)
-* [Notepad](https://milkclouds.notion.site/Notepad-1844a1560b794594829770ee5b49bdb7) (Notion blog)
+* [Worldpad](https://milkclouds.work/)
+~~* [Something like Blog](https://milkclouds.github.io) (Jekyll blog, outdated)~~
+~~* [Notepad](https://milkclouds.notion.site/Notepad-1844a1560b794594829770ee5b49bdb7) (Notion blog, outdated)~~
 
 ## 🏷️ Cards
 
