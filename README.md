@@ -9,6 +9,7 @@
 * Interest: Machine Learning, Quantum Computing, Homomorphic Encryption(Post Quantum Cryptography), Blockchain(Smart Contract, DeFI, ...), SMR(+Nuclear Fusion), BCI, etc...
 
 + 2021
+    + Freshman 
     + Software Maestro 12th
     + Studied Deep Learning, Basic of Quantum Computing, Basic of Blockchain
     + [PR](https://github.com/open-mmlab/mmdetection3d/pull/1050) merged for openmmlab/mmdetection3d
