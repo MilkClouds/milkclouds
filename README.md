@@ -14,6 +14,10 @@
     + Studied Deep Learning, Basic of Quantum Computing, Basic of Blockchain
     + [PR](https://github.com/open-mmlab/mmdetection3d/pull/1050) merged for openmmlab/mmdetection3d
     + [PR](https://github.com/isac322/BOJ-auto_code_downloader/pull/3) merged for isac322/BOJ-auto_code_downloader
++ 2022
+    + Got Google Codejam T-Shirt
+    + NAVER CLOVA AIRUSH
+    + Made simple arbitrage alarm & one-click swap&transfer script for DEX<>CEX, CEX<>CEX
 
 ## 💻 Online Judge
 
