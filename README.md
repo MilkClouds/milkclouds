@@ -15,9 +15,12 @@
     + [PR](https://github.com/open-mmlab/mmdetection3d/pull/1050) merged for openmmlab/mmdetection3d
     + [PR](https://github.com/isac322/BOJ-auto_code_downloader/pull/3) merged for isac322/BOJ-auto_code_downloader
 + 2022
-    + Got Google Codejam T-Shirt
-    + NAVER CLOVA AIRUSH
+    + Got Google Codejam 2022 T-Shirt
     + Made simple arbitrage alarm & one-click swap&transfer script for DEX<>CEX, CEX<>CEX
+    + NAVER CLOVA AIRUSH
+        + 3rd place on Landmark Detection
+        + 2nd place on Shopping User Embedding Extraction, Classification
+    + [PR](https://github.com/LSPosed/MagiskOnWSALocal/pull/155) merged for LSPosed/MagiskOnWSALocal (typo fix)
 
 ## 💻 Online Judge
 
