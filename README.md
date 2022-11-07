@@ -6,7 +6,7 @@
 
 * Choi SuHwan / MilkClouds
 * Seoul National University Undergraduate - Majoring Physics
-* Interest: Machine Learning, Quantum Computing, Homomorphic Encryption(Post Quantum Cryptography), Blockchain(Smart Contract, DeFI, ...), SMR(+Nuclear Fusion), BCI, etc...
+* Interests: Machine Learning, Quantum Computing, Homomorphic Encryption(Post Quantum Cryptography), Blockchain(Smart Contract, DeFI, ...), SMR(+Nuclear Fusion), BCI, etc...
 
 + 2021
     + Freshman 
@@ -17,7 +17,7 @@
 + 2022
     + Got Google Codejam 2022 T-Shirt
     + Made simple arbitrage alarm & one-click swap&transfer script for DEX<>CEX, CEX<>CEX
-    + NAVER CLOVA AIRUSH
+    + NAVER CLOVA AIRUSH 2022
         + 3rd place on Landmark Detection
         + 2nd place on Shopping User Embedding Extraction, Classification
     + [PR](https://github.com/LSPosed/MagiskOnWSALocal/pull/155) merged for LSPosed/MagiskOnWSALocal (typo fix)
