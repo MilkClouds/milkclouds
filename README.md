@@ -20,7 +20,7 @@
     + NAVER CLOVA AIRUSH 2022
         + 3rd place on Landmark Detection
         + 2nd place on Shopping User Embedding Extraction, Classification
-    + [PR](https://github.com/LSPosed/MagiskOnWSALocal/pull/155) merged for LSPosed/MagiskOnWSALocal (typo fix)
+    + PR merged for LSPosed/MagiskOnWSALocal (typo fix), mmdetection, mmsegmentation
 
 ## 💻 Online Judge
 
