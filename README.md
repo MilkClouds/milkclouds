@@ -12,15 +12,14 @@
     + Freshman 
     + Software Maestro 12th
     + Studied Deep Learning, Basic of Quantum Computing, Basic of Blockchain
-    + [PR](https://github.com/open-mmlab/mmdetection3d/pull/1050) merged for openmmlab/mmdetection3d
-    + [PR](https://github.com/isac322/BOJ-auto_code_downloader/pull/3) merged for isac322/BOJ-auto_code_downloader
+    + merged [PR](https://github.com/open-mmlab/mmdetection3d/pull/1050) on openmmlab/mmdetection3d, [PR](https://github.com/isac322/BOJ-auto_code_downloader/pull/3) on isac322/BOJ-auto_code_downloader
 + 2022
-    + Got Google Codejam 2022 T-Shirt
+    + Google Codejam 2022 Round 3, 546th (awarded T-Shirt)
     + Made simple arbitrage alarm & one-click swap&transfer script for DEX<>CEX, CEX<>CEX
     + NAVER CLOVA AIRUSH 2022
         + 3rd place on Landmark Detection
         + 2nd place on Shopping User Embedding Extraction, Classification
-    + PR merged for LSPosed/MagiskOnWSALocal (typo fix), mmdetection, mmsegmentation
+    + merged PR on LSPosed/MagiskOnWSALocal (typo fix), [PR](https://github.com/open-mmlab/mmdetection/pull/9476) on mmdetection, [PR](https://github.com/open-mmlab/mmsegmentation/pull/2398) on mmsegmentation
 
 ## 💻 Online Judge
 
