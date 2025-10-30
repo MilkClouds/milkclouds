@@ -6,7 +6,8 @@
 
 * Choi SuHwan / MilkClouds
 * Seoul National University Undergraduate - Majoring Physics and CSE
-* Resume(CV): [link](https://milkclouds.work/content/files/suhwan_choi_cv.pdf)
+* Research Profile page: https://suhwanchoi.me/, [CV](https://suhwanchoi.me/data/suhwan_choi_cv.pdf)
+* Personal blog: https://milkclouds.work
 
 ## 💻 Online Judge
 
