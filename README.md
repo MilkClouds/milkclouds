@@ -33,3 +33,7 @@
 
 <!-- ![Scoresaber](https://github-readme-score-saber.vercel.app/api?uid=76561198272505633) -->
 
+## Some open-source projects
+
+- https://github.com/MilkClouds/lazyregistry: A lightweight Python library for lazy-loading registries with namespace support and type safety
+- https://github.com/open-world-agents
