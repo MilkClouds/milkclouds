@@ -1,10 +1,10 @@
-# Choi SuHwan / MilkClouds
+# SuHwan Choi / MilkClouds
 
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FMilkClouds&label=&icon=github&color=%23198754&message=&style=flat&tz=UTC)
 
 ## 🙋‍♂️ Profile
 
-* Choi SuHwan / MilkClouds
+* Suhwan Choi / MilkClouds
 * Research Profile page: https://suhwanchoi.me/, [CV](https://suhwanchoi.me/data/suhwan_choi_cv.pdf)
 * Personal blog: https://milkclouds.work
 
