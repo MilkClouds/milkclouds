@@ -35,6 +35,7 @@
 
 ## Some open-source projects
 
+- https://github.com/MilkClouds/awesome-vla-study: A structured reading list on Vision-Language-Action (VLA) models — from diffusion/flow matching foundations through state-of-the-art robot foundation model architectures to data scaling, RL fine-tuning, and world models. Papers in reading order.
 - https://github.com/MilkClouds/lazyregistry: A lightweight Python library for lazy-loading registries with namespace support and type safety
 - https://github.com/MilkClouds/smon: Real-time Slurm cluster monitoring tool with interactive TUI with Textual. Visualizes GPU/CPU/memory allocation across nodes with job-level drill-down.
 - https://github.com/MilkClouds/vla0-trl: Unofficial reimplementation of VLA-0 using TRL's SFTTrainer.
