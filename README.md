@@ -22,7 +22,7 @@
 
 ## 🏷️ Cards
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=milkclouds&theme=chalk&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-repo.vercel.app/?username=milkclouds&theme=chalk&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- [![milkclouds's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=milkclouds)](https://solved.ac/profile/milkclouds) -->
 <!-- ![MilkClouds's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=milkclouds) -->
