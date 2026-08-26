@@ -33,7 +33,8 @@
 
 <!-- ![Scoresaber](https://github-readme-score-saber.vercel.app/api?uid=76561198272505633) -->
 
-## Open-source projects
+<details>
+<summary><h2>Open-source projects</h2></summary>
 
 Selected developer tools, libraries, and research projects. ⭐ marks featured work; 💎 marks niche tools with outsized value for the right users.
 
@@ -65,3 +66,5 @@ Selected developer tools, libraries, and research projects. ⭐ marks featured w
 | ⭐ **[vla0-trl](https://github.com/MilkClouds/vla0-trl)** | [![GitHub stars](https://img.shields.io/github/stars/MilkClouds/vla0-trl?style=flat&logo=github&label=)](https://github.com/MilkClouds/vla0-trl/stargazers) | ~1,200-line VLA-0 reimplementation reaching ~90% on LIBERO by predicting actions as text with Qwen2.5-VL—no custom architecture. |
 | **[open-world-agents/open-world-agents](https://github.com/open-world-agents/open-world-agents)** | [![GitHub stars](https://img.shields.io/github/stars/open-world-agents/open-world-agents?style=flat&logo=github&label=)](https://github.com/open-world-agents/open-world-agents/stargazers) | Everything needed to build state-of-the-art foundation multimodal desktop agents end to end. |
 | **[do-custom-kernels-matter](https://github.com/MilkClouds/do-custom-kernels-matter)** | [![GitHub stars](https://img.shields.io/github/stars/MilkClouds/do-custom-kernels-matter?style=flat&logo=github&label=)](https://github.com/MilkClouds/do-custom-kernels-matter/stargazers) | Measures whether custom kernels materially improve end-to-end inference beyond static cache, CUDA graphs, and `torch.compile` baselines. |
+
+</details>
