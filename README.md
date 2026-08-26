@@ -29,7 +29,7 @@
 
 <!-- [![CodeForces Profile](http://cf.leed.at?id=milkclouds)](https://codeforces.com/profile/milkclouds) -->
 
-[![MilkClouds's github stats](https://github-readme-stats.vercel.app/api?username=milkclouds&show_icons=true&hide_border=true)](https://github.com/milkclouds) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milkclouds&layout=compact)](https://github.com/milkclouds)
+[![MilkClouds's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MilkClouds&theme=github)](https://github.com/MilkClouds) [![Top languages by repository](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MilkClouds&theme=github)](https://github.com/MilkClouds)
 
 <!-- ![Scoresaber](https://github-readme-score-saber.vercel.app/api?uid=76561198272505633) -->
 
