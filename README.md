@@ -35,6 +35,13 @@
 
 ## Some open-source projects
 
+- https://github.com/MilkClouds/paperstack: Open-source CLI for maintaining, querying, and publishing independent research corpora
+- https://github.com/MilkClouds/my-dev-playbook: Personal development environment setup guide — shell, tools, editor, AI agents, HPC, and workflows.
+- https://github.com/MilkClouds/md-render: Render a local Markdown file or GitHub URL as a GitHub-styled PDF or standalone HTML document.
+- https://github.com/MilkClouds/fetch-bib: A Claude Code skill for human-in-the-loop BibTeX fetch from the authoritative source
+- https://github.com/MilkClouds/chrono-daemon: Tiny AnyIO runtime for time-driven async daemon graphs.
+- https://github.com/MilkClouds/do-custom-kernels-matter: Measure whether custom kernels materially improve end-to-end inference beyond static-cache, CUDA-graph, and torch.compile baselines.
+- https://github.com/MilkClouds/pycodelift: Build-time class-inheritance flattener for Python — generalizes HuggingFace transformers' modular code generator into a framework-agnostic library.
 - https://github.com/MilkClouds/awesome-vla-study: A structured reading list on Vision-Language-Action (VLA) models — from diffusion/flow matching foundations through state-of-the-art robot foundation model architectures to data scaling, RL fine-tuning, and world models. Papers in reading order.
 - https://github.com/MilkClouds/lazyregistry: A lightweight Python library for lazy-loading registries with namespace support and type safety
 - https://github.com/MilkClouds/smon: Real-time Slurm cluster monitoring tool with interactive TUI with Textual. Visualizes GPU/CPU/memory allocation across nodes with job-level drill-down.
