@@ -22,6 +22,8 @@
 
 ## 🏷️ Cards
 
+<!-- [![Tokscale Stats](https://tokscale.ai/api/embed/MilkClouds/svg?tokens=compact&cost=compact)](https://tokscale.ai/u/MilkClouds) -->
+
 [![trophy](https://github-profile-repo.vercel.app/?username=milkclouds&theme=chalk&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- [![milkclouds's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=milkclouds)](https://solved.ac/profile/milkclouds) -->
