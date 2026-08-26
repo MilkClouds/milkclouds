@@ -33,19 +33,35 @@
 
 <!-- ![Scoresaber](https://github-readme-score-saber.vercel.app/api?uid=76561198272505633) -->
 
-## Some open-source projects
+## Open-source projects
 
-- https://github.com/MilkClouds/paperstack: Open-source CLI for maintaining, querying, and publishing independent research corpora
-- https://github.com/MilkClouds/my-dev-playbook: Personal development environment setup guide — shell, tools, editor, AI agents, HPC, and workflows.
-- https://github.com/MilkClouds/md-render: Render a local Markdown file or GitHub URL as a GitHub-styled PDF or standalone HTML document.
-- https://github.com/MilkClouds/fetch-bib: A Claude Code skill for human-in-the-loop BibTeX fetch from the authoritative source
-- https://github.com/MilkClouds/chrono-daemon: Tiny AnyIO runtime for time-driven async daemon graphs.
-- https://github.com/MilkClouds/do-custom-kernels-matter: Measure whether custom kernels materially improve end-to-end inference beyond static-cache, CUDA-graph, and torch.compile baselines.
-- https://github.com/MilkClouds/pycodelift: Build-time class-inheritance flattener for Python — generalizes HuggingFace transformers' modular code generator into a framework-agnostic library.
-- https://github.com/MilkClouds/awesome-vla-study: A structured reading list on Vision-Language-Action (VLA) models — from diffusion/flow matching foundations through state-of-the-art robot foundation model architectures to data scaling, RL fine-tuning, and world models. Papers in reading order.
-- https://github.com/MilkClouds/lazyregistry: A lightweight Python library for lazy-loading registries with namespace support and type safety
-- https://github.com/MilkClouds/smon: Real-time Slurm cluster monitoring tool with interactive TUI with Textual. Visualizes GPU/CPU/memory allocation across nodes with job-level drill-down.
-- https://github.com/MilkClouds/vla0-trl: Unofficial reimplementation of VLA-0 using TRL's SFTTrainer.
-    - While common VLA codebases are over 10,000 lines, vla0-trl contains only ~1,200 lines total. Gets ~90% on LIBERO by just fine-tuning Qwen2.5-VL to predict actions as text. No custom architecture needed.
-- https://github.com/MilkClouds/SimpleRPyC: SimpleRPyC (pronounced simple-are-pie-see), short for Simple Remote Python Call, is a WebSocket-based RPC library for Python. Inspired by RPyC, it uses transparent proxy objects to let you interact with remote Python objects as if they were local—leveraging Python's dynamic nature to bridge processes and machines seamlessly. Additionally, SimpleRPyC provides convenient module patching that allows you to use existing code with minimal changes.
-- https://github.com/open-world-agents
+Selected developer tools, libraries, and research projects. ⭐ marks featured work; 💎 marks niche tools with outsized value for the right users.
+
+<!-- Sort project tables by marker first, then stars descending, then repository name alphabetically. -->
+
+### 🧭 Development setup & workflow
+
+**[my-dev-playbook](https://github.com/MilkClouds/my-dev-playbook)** [![GitHub stars](https://img.shields.io/github/stars/MilkClouds/my-dev-playbook?style=flat&logo=github&label=)](https://github.com/MilkClouds/my-dev-playbook/stargazers) — Reproducible development environment setup for shells, tools, editors, AI agents, HPC, and workflows.
+
+### 🛠️ Developer tools & libraries
+
+| Project | Stars | Description |
+| --- | :---: | --- |
+| ⭐ **[paperstack](https://github.com/MilkClouds/paperstack)** | [![GitHub stars](https://img.shields.io/github/stars/MilkClouds/paperstack?style=flat&logo=github&label=)](https://github.com/MilkClouds/paperstack/stargazers) | Open-source CLI for maintaining, querying, and publishing independent research corpora. |
+| ⭐ **[smon](https://github.com/MilkClouds/smon)** | [![GitHub stars](https://img.shields.io/github/stars/MilkClouds/smon?style=flat&logo=github&label=)](https://github.com/MilkClouds/smon/stargazers) | Real-time Slurm cluster monitoring TUI built with Textual. Visualizes GPU, CPU, and memory allocation across nodes with job-level drill-down. |
+| 💎 **[lazyregistry](https://github.com/MilkClouds/lazyregistry)** | [![GitHub stars](https://img.shields.io/github/stars/MilkClouds/lazyregistry?style=flat&logo=github&label=)](https://github.com/MilkClouds/lazyregistry/stargazers) | Lightweight Python library for lazy-loading registries with namespace support and type safety. |
+| 💎 **[chrono-daemon](https://github.com/MilkClouds/chrono-daemon)** | [![GitHub stars](https://img.shields.io/github/stars/MilkClouds/chrono-daemon?style=flat&logo=github&label=)](https://github.com/MilkClouds/chrono-daemon/stargazers) | Tiny AnyIO runtime for time-driven async daemon graphs. |
+| **[fetch-bib](https://github.com/MilkClouds/fetch-bib)** | [![GitHub stars](https://img.shields.io/github/stars/MilkClouds/fetch-bib?style=flat&logo=github&label=)](https://github.com/MilkClouds/fetch-bib/stargazers) | Claude Code skill for human-in-the-loop BibTeX retrieval from authoritative sources. |
+| **[SimpleRPyC](https://github.com/MilkClouds/SimpleRPyC)** | [![GitHub stars](https://img.shields.io/github/stars/MilkClouds/SimpleRPyC?style=flat&logo=github&label=)](https://github.com/MilkClouds/SimpleRPyC/stargazers) | Simple Remote Python Call: a WebSocket-based RPC library inspired by RPyC. Transparent proxies make remote Python objects feel local, while module patching lets existing code work with minimal changes. |
+| **[md-render](https://github.com/MilkClouds/md-render)** | [![GitHub stars](https://img.shields.io/github/stars/MilkClouds/md-render?style=flat&logo=github&label=)](https://github.com/MilkClouds/md-render/stargazers) | Render a local Markdown file or GitHub URL as a GitHub-styled PDF or standalone HTML document. |
+| **[pycodelift](https://github.com/MilkClouds/pycodelift)** | [![GitHub stars](https://img.shields.io/github/stars/MilkClouds/pycodelift?style=flat&logo=github&label=)](https://github.com/MilkClouds/pycodelift/stargazers) | Build-time class-inheritance flattener for Python that generalizes Hugging Face Transformers' modular code generator into a framework-agnostic library. |
+
+### 🔬 Research & resources
+
+| Project | Stars | Description |
+| --- | :---: | --- |
+| ⭐ **[allenai/vla-evaluation-harness](https://github.com/allenai/vla-evaluation-harness)** | [![GitHub stars](https://img.shields.io/github/stars/allenai/vla-evaluation-harness?style=flat&logo=github&label=)](https://github.com/allenai/vla-evaluation-harness/stargazers) | One framework to evaluate any VLA model on any robot simulation benchmark. |
+| ⭐ **[awesome-vla-study](https://github.com/MilkClouds/awesome-vla-study)** | [![GitHub stars](https://img.shields.io/github/stars/MilkClouds/awesome-vla-study?style=flat&logo=github&label=)](https://github.com/MilkClouds/awesome-vla-study/stargazers) | Structured reading list on Vision-Language-Action models, from diffusion and flow-matching foundations through robot foundation model architectures to data scaling, RL fine-tuning, and world models. Papers are arranged in reading order. |
+| ⭐ **[vla0-trl](https://github.com/MilkClouds/vla0-trl)** | [![GitHub stars](https://img.shields.io/github/stars/MilkClouds/vla0-trl?style=flat&logo=github&label=)](https://github.com/MilkClouds/vla0-trl/stargazers) | Unofficial reimplementation of VLA-0 using TRL's `SFTTrainer`. While common VLA codebases exceed 10,000 lines, vla0-trl contains only ~1,200 lines total. It reaches ~90% on LIBERO by fine-tuning Qwen2.5-VL to predict actions as text—no custom architecture needed. |
+| **[open-world-agents/open-world-agents](https://github.com/open-world-agents/open-world-agents)** | [![GitHub stars](https://img.shields.io/github/stars/open-world-agents/open-world-agents?style=flat&logo=github&label=)](https://github.com/open-world-agents/open-world-agents/stargazers) | Everything needed to build state-of-the-art foundation multimodal desktop agents end to end. |
+| **[do-custom-kernels-matter](https://github.com/MilkClouds/do-custom-kernels-matter)** | [![GitHub stars](https://img.shields.io/github/stars/MilkClouds/do-custom-kernels-matter?style=flat&logo=github&label=)](https://github.com/MilkClouds/do-custom-kernels-matter/stargazers) | Measures whether custom kernels materially improve end-to-end inference beyond static cache, CUDA graphs, and `torch.compile` baselines. |
