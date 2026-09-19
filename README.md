@@ -5,7 +5,7 @@
 ## 🙋‍♂️ Profile
 
 * Suhwan Choi / MilkClouds
-* Research Profile page: https://suhwanchoi.me/, [CV](https://suhwanchoi.me/data/suhwan_choi_cv.pdf)
+* Research Profile page: https://suhwanchoi.me/, [CV](https://suhwanchoi.me/suhwan_choi_cv.pdf)
 * Personal blog: https://milkclouds.work
 
 <!--
@@ -66,7 +66,10 @@ Selected developer tools, libraries, and research projects. ⭐ marks featured w
 | ⭐ **[allenai/vla-evaluation-harness](https://github.com/allenai/vla-evaluation-harness)** | [![GitHub stars](https://img.shields.io/github/stars/allenai/vla-evaluation-harness?style=flat&logo=github&label=)](https://github.com/allenai/vla-evaluation-harness/stargazers) | One framework to evaluate any VLA model on any robot simulation benchmark. |
 | ⭐ **[awesome-vla-study](https://github.com/MilkClouds/awesome-vla-study)** | [![GitHub stars](https://img.shields.io/github/stars/MilkClouds/awesome-vla-study?style=flat&logo=github&label=)](https://github.com/MilkClouds/awesome-vla-study/stargazers) | Reading-ordered VLA paper guide spanning generative foundations, architectures, data scaling, RL, and world models. |
 | ⭐ **[vla0-trl](https://github.com/MilkClouds/vla0-trl)** | [![GitHub stars](https://img.shields.io/github/stars/MilkClouds/vla0-trl?style=flat&logo=github&label=)](https://github.com/MilkClouds/vla0-trl/stargazers) | ~1,200-line VLA-0 reimplementation reaching ~90% on LIBERO by predicting actions as text with Qwen2.5-VL—no custom architecture. |
+| ⭐ **[worv-ai/D2E](https://github.com/worv-ai/D2E)** | [![GitHub stars](https://img.shields.io/github/stars/worv-ai/D2E?style=flat&logo=github&label=)](https://github.com/worv-ai/D2E/stargazers) | ICLR 2026. Desktop gameplay as a pretraining substrate for embodied AI: data, Generalist IDM, and vision-action pretraining. |
+| **[worv-ai/PonderPounce](https://github.com/worv-ai/PonderPounce)** | [![GitHub stars](https://img.shields.io/github/stars/worv-ai/PonderPounce?style=flat&logo=github&label=)](https://github.com/worv-ai/PonderPounce/stargazers) | A pretrained MLLM as an episode context engine for robot control (dual-system VLA). |
 | **[open-world-agents/open-world-agents](https://github.com/open-world-agents/open-world-agents)** | [![GitHub stars](https://img.shields.io/github/stars/open-world-agents/open-world-agents?style=flat&logo=github&label=)](https://github.com/open-world-agents/open-world-agents/stargazers) | Everything needed to build state-of-the-art foundation multimodal desktop agents end to end. |
+| **[open-world-agents/MediaRef](https://github.com/open-world-agents/MediaRef)** | [![GitHub stars](https://img.shields.io/github/stars/open-world-agents/MediaRef?style=flat&logo=github&label=)](https://github.com/open-world-agents/MediaRef/stargazers) | Portable frame-level media reference primitive: `(uri, pts_ns)` is the entire schema. |
 | **[do-custom-kernels-matter](https://github.com/MilkClouds/do-custom-kernels-matter)** | [![GitHub stars](https://img.shields.io/github/stars/MilkClouds/do-custom-kernels-matter?style=flat&logo=github&label=)](https://github.com/MilkClouds/do-custom-kernels-matter/stargazers) | Measures whether custom kernels materially improve end-to-end inference beyond static cache, CUDA graphs, and `torch.compile` baselines. |
 
 </details>
